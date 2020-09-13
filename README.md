@@ -1,1 +1,1 @@
-# SkyAdvisor
+# StargazingAdvisor
